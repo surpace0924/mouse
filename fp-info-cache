@@ -1,4 +1,4 @@
-16395541020699268
+16397119077082268
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -50632,6 +50632,13 @@ mounting hole 8.4mm m8
 1
 MyFootprint
 LBR-127HLD
+
+
+0
+4
+4
+MyFootprint
+LBR-127HLD_2
 
 
 0
