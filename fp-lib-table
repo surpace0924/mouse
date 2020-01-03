@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MyFootprint)(type KiCad)(uri ${KIPRJMOD}/lib/MyFootprint.pretty)(options "")(descr ""))
+  (lib (name Xbee)(type KiCad)(uri ${KIPRJMOD}/lib/Xbee.pretty)(options "")(descr ""))
+)

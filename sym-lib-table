@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MyComponent)(type Legacy)(uri ${KIPRJMOD}/lib/MyComponent/MyComponent.lib)(options "")(descr ""))
+  (lib (name xbee)(type Legacy)(uri ${KIPRJMOD}/lib/MyComponent/xbee.lib)(options "")(descr ""))
+)
